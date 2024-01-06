@@ -1,6 +1,31 @@
 # YQisme
 ## 个人简介
-![Ean's GitHub stats](https://github-readme-stats.vercel.app/api?username=YQisme&hide=stars)
+<div>
+  <img height=200 align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=YQisme&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YQisme&layout=pie&langs_count=8&size_weight=0&count_weight=1" />
+</div>
+
+## 热门项目
+<div>
+  <a href="https://github.com/EanYang7/Probability-and-Statistics">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EanYang7&repo=Probability-and-Statistics&description_lines_count=1" />
+  </a>
+  
+  <a href="https://github.com/EanYang7/cs231n">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EanYang7&repo=cs231n&description_lines_count=1" />  
+  </a>
+</div>
+<div>
+  <a href="https://github.com/EanYang7/Python-Full-Stack">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EanYang7&repo=Python-Full-Stack&description_lines_count=1" />
+  </a>
+  
+  <a href="https://github.com/EanYang7/AIGC">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EanYang7&repo=AIGC&description_lines_count=1" />  
+  </a>
+</div>
+
+
 
 ## 擅长的技术
 
