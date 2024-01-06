@@ -1,6 +1,6 @@
 # YQisme
 ## 个人简介
-
+![Ean's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ean)
 擅长的技术
 
 |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |
