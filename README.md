@@ -1,5 +1,12 @@
 # YQisme
+
+Visitors:![Visitor Count](https://profile-counter.glitch.me/YQisme/count.svg) 
 ## 个人简介
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <div>
   <img height=200 align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=YQisme&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=rose_pine" />
